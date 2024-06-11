@@ -589,11 +589,13 @@ padding-top: 7%;
 
 
 
+
+
 }
 
 
 main div{
-    
+    background-color: red;
     width: 95%;
     margin-top: 8%;
     
